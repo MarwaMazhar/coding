@@ -1,0 +1,305 @@
+header{
+	background-color:transparent;
+	font-family: 'Patrick Hand', cursive;
+/*	height: 80px;*/
+}
+header nav ul li{
+	padding: 10px;
+}
+header nav ul li a{
+	color: rgba(255, 255, 255, 0.7);
+	font-size: 25px;
+}
+header nav ul li a:hover{
+	color: rgba(255, 255, 255, 0.7);
+}
+small{
+	color: #d49a3a;
+	font-size: 30px;
+}
+.but{
+	padding: 14px;
+	color: white;
+	font-size: 19px;
+	width: 130px;
+	background-color: #d49a3a;
+	border-radius:40px;
+	border: none;
+}
+@media(max-width: 991.98px){
+	.ftco-navbar-light{
+		background-color: #282214;
+	}
+}
+.container-xl{
+	align-items: center;
+}
+.col-lg-6{
+	width: 50px;
+	padding-top: 100px;
+/*	padding: 40px;*/
+
+}
+.subheading{
+	font-size: 15px;
+	display: block;
+	margin-bottom: 5px;
+	font-weight: 600;
+	letter-spacing: 1px;
+	color: #d49a3a;
+/*	margin-top: 80px;*/
+}
+.services-2{
+	width: 100%;
+	background-color: #fff;
+	padding: 30px;
+	border-radius: 5px;
+	text-align: center;
+}
+.icon{
+	width: 80px;
+	height: 80px;
+	border-radius: 50px;
+	background-color: #d49a3a;
+	margin-bottom: 10px;
+	margin: auto;
+}
+.icons{
+	font-size: 35px;
+	padding-top: 20px;
+	color: white;
+	text-align: center;
+}
+.text{
+	font-size: 20px;
+	color: #39311d;
+	margin-bottom: 0px;
+	line-height: 1.4;
+	font-family: 'Patrick Hand', cursive;
+}
+.fund-raised{
+	background-color: #0a686e;
+	padding: 10px 0px 20px 40px;
+	border-radius: 10px 10px 0 0;
+}
+.countup{
+	color: white;
+	font-size: 40px;
+	font-family: 'Patrick Hand', cursive;
+	padding-left: 20px !important;
+	padding: 0px;
+	margin: 0px;
+}
+.trans{
+	margin-top: 100px;
+}
+.form-control{
+	border: transparent;
+	background-color: rgba(255, 255, 255, 0.05) !important;
+	font-size: 14px;
+	border-radius: 4px;
+	height: 50px;
+	padding: 15px;
+	color: #FFFFFFB3;
+}
+.radio{
+	margin: 5px;
+}
+.rad{
+	margin-top: 20px !important;
+}
+.hov:hover{
+/*	color: white !important;*/
+	background-color: #0A686E;
+	transition: 0.5s;
+}
+.a{
+	color:rgba(255, 255, 255, 0.9);
+	margin-bottom: 5px;
+	font-family: "Poppins", Arial, sans-serif;
+	font-size: 18px;
+	display: inline-block;
+	display: block;
+	font-weight: 400;
+}
+.b{
+	font-size: 30px;
+	color: white;
+}
+.b:hover{
+	font-size: 30px;
+	color: black;
+}
+.c{
+	color: rgba(255, 255, 255, 0.8);
+	font-family: "Poppins", Arial, sans-serif;
+	font-size: 11px;
+	letter-spacing:3px;
+	display: block;
+	font-weight: 600;
+}
+.d{
+	align-items: center;
+	justify-content: center;
+	line-height: 1.2;
+	font-family: 'Patrick Hand', cursive;
+	font-size: 80px;
+	color: #fff;
+}
+.e{
+	display: inline-block;
+	padding:9px 12px;
+	color:white;
+	font-size: 18px;
+	font-family: "Poppins", Arial, sans-serif;
+}
+.f{
+	padding-bottom: 170px;
+}
+.g{
+	font-family: 'Patrick Hand', cursive;
+	font-size: 60px;
+	margin: 0px 0px 24px;
+}
+.h{
+	font-family: "Poppins", Arial, sans-serif;
+	font-size: 16px;
+	margin: 0px 0px 16px;
+	color: #666666;
+}
+.i{
+	background-color: #F3F0EB;
+}
+.j{
+	font-size: 30px;
+	color:#d49a3a;
+}
+.k{
+	font-size: 14px;
+	color:#d49a3a;
+	font-weight: 600;
+	padding-left: 20px;
+}
+.l{
+	margin-top: -129px;
+	margin-bottom: -55px;
+	height: 1100px !important;
+	background-color:#39311d;
+	border-radius: 4px;
+}
+.m{
+	font-size: 12px;
+	color:#d49a3a;
+}
+@media(max-width:991.98px){
+	.n{
+		padding: 40px 3px !important;
+	}
+}
+.n{
+	font-family: "Poppins", Arial, sans-serif;
+	padding: 40px 30px;
+	color: #666666;
+	background-color: #39311d;
+}
+.o{
+	margin: 0px 0px 24px;
+	font-size: 30px;
+	font-family: 'Patrick Hand', cursive;
+	color: white;
+}
+.p{
+	padding: 14px;
+	color: white;
+	font-size: 12px;
+	width: 90%;
+	margin-top:30px;
+	margin-left: 20px;
+	background-color: #d49a3a;
+	border-radius:4px;
+	border: none;
+}
+.q{
+	padding-top: 30px;
+}
+@media(max-width: 991.98px){
+	.ro{
+		height: 1500px !important;
+	}
+}
+.r{
+	padding: 70px 0px;
+	position: relative;
+	z-index: -1;
+	display: block;
+	height:620px;
+	background-attachment: fixed;
+	background-size: cover;
+	margin-top: -50px;
+	background-position: center center;
+}
+.s{
+	background-color: #063c3f !important;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	opacity: .8;
+/*	z-index: -1;*/
+}
+.t{
+	padding-top: 150px;
+	color: white;
+}
+.u{
+	font-family: "Poppins", Arial, sans-serif;
+	font-size: 14px;
+	letter-spacing: 1px;
+	font-weight: 600;
+	margin-bottom: 5px;
+}
+.v{
+	font-family: 'Patrick Hand', cursive;
+	line-height: 1.4;
+	font-size: 60px;
+	font-weight: 500;
+	padding-bottom: 40px;
+}
+.w{
+	opacity: 1;
+	transform: translateZ(0);
+	transition-duration:1s;
+}
+.x{
+	font-family: 'Patrick Hand', cursive;
+	font-size: 40px;
+	color: white;
+	margin: 0px;
+}
+.services{
+	width: 100%;
+	height: 230px;
+	background-color:#3B5E5B;
+	padding: 30px;
+	border-radius: 5px;
+	text-align: center;
+}
+.ico{
+	height: 80px;
+	margin: auto;
+}
+.ic{
+	font-size: 40px;
+	padding-top: 20px;
+	color: white;
+	text-align: center;
+}
+.tex{
+	font-size: 16px;
+	font-weight: 550;
+	color:white;
+	margin-bottom: 0px;
+	line-height: 1.4;
+	font-family: "Poppins", Arial, sans-serif;
+}
